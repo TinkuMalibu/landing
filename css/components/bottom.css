@@ -1,0 +1,11 @@
+.btn-single {
+  padding: 15px;
+  background-color: darksalmon;
+  border-radius: 10px;
+  color: white;
+  box-shadow: 2px 2px 20px grey;
+}
+
+a:hover{
+  background-color: rgb(232, 113, 74);
+}

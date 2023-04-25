@@ -1,0 +1,30 @@
+
+
+.card img{
+  width: 150px ;
+}
+
+.card{
+  border: 1px solid rgb(200, 200, 200);
+  width: 215px;
+  padding: 18px;
+  border-radius: 2px;
+  box-shadow: 0 0 5px rgb(200, 200, 200);
+  text-align: center;
+}
+
+.card h3 {
+  color: black;
+}
+
+.all-cards {
+  width: 900px;
+  display: flex;
+  justify-content:space-between;
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+
+.greycolor {
+  color: darkgrey;
+}
